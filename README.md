@@ -61,7 +61,7 @@ Current time in Asia/Tokyo: 2025-07-29 06:45:30 PM
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source.
 
 ---
 
